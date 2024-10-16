@@ -1,6 +1,21 @@
-# <Título do projeto>
+# Análise de Gorjetas 🫰
 
-Insira aqui um resumo do projeto que será construído. Tente apresentar uma justificativa para o projeto. É desejável que também se insira um [graphical abstract](https://www.elsevier.com/authors/tools-and-resources/visual-abstract).
+O Projeto trate-se de uma análise de dados coletados de um restaurante por um garçom durante alguns meses, com diversos atributos que podem ser utilizados para gerar análises descritivas e estatísticas, permitindo avaliar o desempenho do restaurante durante o período e com base nisso melhorar a tomada de decisão e identificar os pontos fortes e fracos , assim conforme o objetivo da instituição/pessoa é possível investir em uma abordagem que possa aumentar os lucros de mitigar prejuízos.
+
+## Atributos do dataset:
+
+| Coluna                  | Descrição                                                                 | 
+|------------------------|--------------------------------------------------------------------------|
+| **total_bill**        | Representa o valor total da conta em dólares. Esta coluna indica o valor gasto por um grupo em um restaurante.                               | 
+| **tip**                |  Representa o valor da gorjeta deixada em dólares.. Corresponde à quantia adicional paga ao garçom ou garçonete pelo serviço prestado.                                       |   
+| **sex**                |  Indica o sexo da pessoa que pagou a conta. Os valores possíveis são "Male" (Masculino) e "Female" (Feminino).                                         |  
+| **smoker**                | Indica se o cliente é fumante ou não. Os valores possíveis são "Yes" (Sim, fumante) e "No" (Não, não fumante).                                         |
+| **day**                |   Representa o dia da semana em que a refeição foi consumida. Os valores possíveis são "Thur" (Quinta), "Fri" (Sexta), "Sat" (Sábado) e "Sun" (Domingo).                                         |
+| **time**                | Indica se a refeição foi consumida durante o "Lunch" (Almoço) ou "Dinner" (Jantar).                                       |  
+| **size**                |  Refere-se ao número de pessoas que estavam presentes na refeição (o tamanho do grupo).                                     |  
+
+
+
 
 ## Desenvolvedores
  - [Nome do desenvolvedor #1](url-do-github-do-desenvolvedor-#1)
