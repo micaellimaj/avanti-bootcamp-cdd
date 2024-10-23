@@ -1,4 +1,4 @@
-# Análise de Dados de Gorjetas para Otimização de Vendas e Satisfação do Cliente em um Restaurante
+# Análise de Dados de Gorjetas Para Tomada de Decisão
 
 <p align="center">
     <img src = "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHU4MnI3YnU4Z3B0aW91c2tzb3hqYjA1dDRydjhoem41YTZyYXdxeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rk8CZk8M7UHzG/giphy.webp" />
