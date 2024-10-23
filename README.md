@@ -1,12 +1,19 @@
-# Análise de dados sobre Gorjetas de um Restaurante 🫰
+# Análise de Dados de Gorjetas para Otimização de Vendas e Satisfação do Cliente em um Restaurante
 
 <p align="center">
     <img src = "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHU4MnI3YnU4Z3B0aW91c2tzb3hqYjA1dDRydjhoem41YTZyYXdxeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rk8CZk8M7UHzG/giphy.webp" />
 </p>
 
-O Projeto trate-se de uma análise de dados coletados de um restaurante por um garçom durante alguns meses, com diversos atributos que podem ser utilizados para gerar análises descritivas e estatísticas, permitindo avaliar o desempenho do restaurante durante o período e com base nisso melhorar a tomada de decisão e identificar os pontos fortes e fracos , assim conforme o objetivo da instituição/pessoa é possível investir em uma abordagem que possa aumentar os lucros de mitigar prejuízos.
+## Introdução
 
-## Atributos do dataset:
+Este projeto tem como objetivo realizar uma análise aprofundada dos dados de gorjetas coletados por um garçom durante alguns meses. Os dados incluem informações sobre valor total da conta, valor da gorjeta deixada, sexo do cliente, dentre outros atributos listados logo adiante que influenciaram nas análises. Através de técnicas estatísticas e visualizações de dados, buscamos identificar padrões, tendências e correlações que possam influenciar o valor das gorjetas.
+
+## Justificativa
+
+Em um mercado altamente competitivo, a capacidade de tomar decisões baseadas em dados é fundamental para o sucesso de um restaurante. A análise de gorjetas permite que o estabelecimento compreenda melhor o comportamento de seus clientes, identifique oportunidades de melhoria e aumente sua rentabilidade. Ao investir em uma análise aprofundada dos dados, o restaurante demonstra seu compromisso com a excelência operacional e a satisfação do cliente, garantindo um diferencial competitivo no mercado.
+
+
+## Atributos do dataset
 
 | Coluna                  | Descrição                                                                 | 
 |------------------------|--------------------------------------------------------------------------|
