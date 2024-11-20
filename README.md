@@ -20,6 +20,8 @@ Em um mercado altamente competitivo, a capacidade de tomar decisões baseadas em
 </p>
 
 
+
+
 ## 📋 Atributos do dataset:
 
 | Coluna                  | Descrição                                                                 | 
