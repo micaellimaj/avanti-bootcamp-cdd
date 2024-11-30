@@ -34,7 +34,7 @@ Em um mercado altamente competitivo, a capacidade de tomar decisões baseadas em
 | **time**                | Indica se a refeição foi consumida durante o "Lunch" (Almoço) ou "Dinner" (Jantar).                                       |  
 | **size**                |  Refere-se ao número de pessoas que estavam presentes na refeição (o tamanho do grupo).                                     |  
 
-## Metodologia:
+## 🏫 Metodologia:
 
 O Projeto será desenvolvido utilizando a metodologia CRISP-DM, seguindo os seguintes passos:
 
@@ -42,6 +42,42 @@ O Projeto será desenvolvido utilizando a metodologia CRISP-DM, seguindo os segu
 2. Entendimento de dados
 3. Preparação dos dados
 4. Modelagem
+
+## 📑 Etapas do Projeto:
+
+Segue as etapas do projeto conforme os arquivos jupyter localizados na pasta notebooks.
+
+### **0-tips-download**:
+
+Este caderno é dedicado a etapa inicial do projeto, com o objetivo de entender a estrutura dos dados, fazendo a primeira leitura e criando um dicionário de dados. 
+
+### **01-exploratory_data_analysis**:
+
+Este caderno é dedicado à análise exploratória de dados (EDA), com o objetivo de entender a estrutura dos dados e obter insights iniciais. Ele está organizado em três etapas principais:
+
+* **Descrição dos Dados**:
+Nesta etapa, os dados são analisados quanto à sua estrutura, verificando a presença de valores faltantes, a distribuição das variáveis, e a criação de um dicionário de dados para facilitar a compreensão das informações.
+
+* **Perguntas e Hipóteses**:
+Aqui, são formuladas perguntas iniciais sobre os dados, seguidas de hipóteses baseadas nessas perguntas. Essas hipóteses serão verificadas na etapa final para avaliar sua validade.
+
+* **Geração de Insights**:
+Diversos gráficos e análises visuais são criados para responder às perguntas formuladas e testar as hipóteses. Com isso, buscamos confirmar ou refutar as hipóteses, gerando insights relevantes para o contexto do projeto.
+
+### **02-comparative_analysis**:
+Este caderno é voltado para a comparação de modelos de regressão e classificação, com o objetivo de identificar os melhores modelos para a previsão e classificação dos dados. O processo é dividido em várias etapas cruciais:
+
+* **Tratamento e Transformação de Dados**:
+    * A primeira etapa envolve a preparação dos dados para análise. Isso inclui a limpeza de dados faltantes, normalização, codificação de variáveis categóricas e outras transformações necessárias para garantir que os dados estejam prontos para alimentar os modelos.
+
+* **Treinamento e Avaliação de Modelos**:
+    * Nessa etapa, diferentes modelos de regressão (como LinearRegression, KNeighborsRegressor, SVR, DummyRegressor) e classificação (como LogisticRegression, KNeighborsClassifier) são treinados e avaliados. Para cada modelo, são calculadas métricas de desempenho como precisão, recall, F1-score, MAE, MSE e R², permitindo uma comparação detalhada de sua eficácia.
+
+* **Comparação de Modelos** :
+    * Através de uma análise comparativa, são avaliadas as forças e fraquezas de cada modelo com base nos resultados obtidos. Essa comparação abrange tanto as métricas de avaliação quanto as predições de cada modelo, considerando a adequação a diferentes tipos de dados e a capacidade de captura de padrões.
+
+* **Geração de Insights**:
+    * Por fim, são extraídos insights com base nas comparações entre os modelos. São apresentados gráficos e tabelas para ilustrar a performance de cada abordagem, destacando as melhores opções para o problema em questão. O objetivo é entender quais modelos têm o melhor desempenho em termos de generalização, precisão e adequação ao contexto dos dados.
 
 
 ## 🗂️ Organização de diretórios:
