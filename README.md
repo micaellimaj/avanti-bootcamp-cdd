@@ -1,4 +1,4 @@
-# 💸 Análise e Previsão de Dados de Gorjetas
+# 💸 Análise e Predição de Dados de Gorjetas
 
 ![arquitetura do Projeto](data/raw/logo_tips.jpeg)
 
