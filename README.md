@@ -106,3 +106,7 @@ Este caderno é voltado para a comparação de modelos de regressão e classific
 └── tasks.py           # Arquivo com funções para criação de tarefas utilizadas pelo invoke
 
 ```
+
+## 💯 Conclusão:
+
+Este projeto demonstrou um fluxo completo de análise e modelagem de dados, passando por etapas fundamentais como pré-processamento, análise exploratória e comparação de diferentes modelos de regressão e Classificação. Ao final do processo, foi possível obter insights valiosos e selecionar o modelo mais adequado para a tarefa proposta.
